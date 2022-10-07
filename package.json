@@ -1,0 +1,29 @@
+{
+  "name": "curso-node-js-mongo-and-websockes-platzi",
+  "version": "0.1.0",
+  "description": "projecto de un chat como telegram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablommm/curso-node-js-mongo-and-websockes-platzi.git"
+  },
+  "keywords": [
+    "chat",
+    "telegram.",
+    "server"
+  ],
+  "author": "juan pablo montoya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanpablommm/curso-node-js-mongo-and-websockes-platzi/issues"
+  },
+  "homepage": "https://github.com/juanpablommm/curso-node-js-mongo-and-websockes-platzi#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
